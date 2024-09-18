@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m currently working in Holy Basil Matra Pvt. Ltd
-- 🌱 I’m currently learning Next.Js
+- 🔭 I’m currently working in Soluperts.ca
+- 🌱 I’m currently learning langchain
 - 💬 Ask me about  anything that makes you curious
 - 📫 How to reach me: pintukumar160900@gmail.com
 
